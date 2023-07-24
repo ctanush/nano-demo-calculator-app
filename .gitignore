@@ -16,3 +16,5 @@ out/
 *newman/
 node_modules/
 .vscode/
+env/
+__pycache__
